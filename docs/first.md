@@ -4,7 +4,7 @@ I want to build a website for my new alpine club in cooperation with my school "
 possible benefits from having a website like better and easier organization or easier sing up and information for
 members or people who want to sing-up. If this project flourishes and becomes real i want the website to serve the
 purpose of informing active members about events (what equipment is needed, what experience is needed, where the location is, ..)
-and also inform about more general topics like alpine safety or proper handling of trash or the laws around wild camping. +
+and also inform about more general topics like alpine safety or proper handling of trash or the laws around wild camping.
 But I also want the website to be a place where interested students can learn about the alpine club and what we do.
 There also needs to be a clear way to get in contact with me or other members.
 
