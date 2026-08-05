@@ -20,3 +20,17 @@ Centralized guides on topics such as mountaineering safety, proper trash handlin
 
 ### Leaderboards & Competition
 Track individual and group achievements such as cumulative elevation gain and highest peaks claimed to encourage healthy, friendly competition.
+
+---
+
+## Here a few concept images
+
+- color scheme: It's supposed to resemble the 
+
+### Main Page
+
+![main-page](./docs/concept/concept-alpine-club.png)
+
+### Event Tab
+
+![event-tab](./docs/concept/concept-event-tab.jpeg)
