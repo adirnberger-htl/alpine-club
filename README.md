@@ -23,9 +23,9 @@ Track individual and group achievements such as cumulative elevation gain and hi
 
 ---
 
-## Here a few concept images
+## Here a few concept images:
 
-- color scheme: It's supposed to resemble the 
+- **Color-Scheme:** It's supposed to resemble the highest peaks of the alps - **white** for the snow, **black** for the rock (it just looks cool I just made that up)
 
 ### Main Page
 

@@ -1,4 +1,4 @@
-# Manifesto
+= Manifesto
 
 I want to build a website for my new alpine club in cooperation with my school "HTL-Leonding", I want to explore
 possible benefits from having a website like better and easier organization or easier sing up and information for
@@ -17,8 +17,13 @@ experience needed. Those will have special access to the website to post new eve
 if that person already is a member or not. Then after the trip happened it will be archived and saved for future reference
 or as a kind of trophy.
 
-The social potential of such a community should not be ignored, there is enormous potential for clans or groups which 
-could compete in a number of categories such as accumulative elevation gained or highest peak claimed. This website 
-could serve as a leaderboard or as a display board of a group's or individual's achievements. 
+The social potential of such a community should not be ignored, there is enormous potential for clans or groups which
+could compete in a number of categories such as accumulative elevation gained or highest peak claimed. This website
+could serve as a leaderboard or as a display board of a group's or individual's achievements.
 This could spark a real passion in people and really get students to pursuit a healthy lifestyle of adventure next
 to the stress of daily school life. 
+
+Another potential point of interest could be a route planner for our school exclusively. This would be another step
+away from a lot of premium subscription models such as komoot or strava which charge users monthly for these features.
+Completed with a mobile app, this could be the foundation for our leaderboard as we can directly use trips from the
+app to count towards a team or member.
